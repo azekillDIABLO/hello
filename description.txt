@@ -1,3 +1,9 @@
+Hello is an ingame image viewer that allows you to see a gallery of images, just by typing /hello. Easy as hello.
+
+#HOW TO USE???
+
+Go in "textures" folder.
+
 Here put file called :
 "hello_background_1" then
 "hello_background_2" then
