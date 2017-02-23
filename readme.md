@@ -1,10 +1,18 @@
+#HELLO???
+
+*Hello is an ingame image viewer that allows you to see a gallery of images, just by typing /hello. Easy as hello.*
+
+#HOW TO USE???
+
+Go in **"textures"** folder.
+
 Here put file called :
-"hello_background_1" then
-"hello_background_2" then
-"hello_background_3" etc...
+**"hello_background_1"** then
+**"hello_background_2"** then
+**"hello_background_3"** etc...
 
 When you finished, count the number of files,
-then change, in init.lua, "max_page = <number>"
-to something like "max_page = 15".
+then change, in init.lua, **"max_page = <number>"**
+to something like **"max_page = 15"**.
 
-Then it's ok you can use it by typing /hello
+Then it's ok you can use it by typing **/hello**
